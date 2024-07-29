@@ -1,0 +1,74 @@
+/* AboutUs.css */
+ 
+/* Container for the Content */
+/* .about-us-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.about-us-card {
+  max-width: 800px;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+ 
+.about-us-card .ant-card-head {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  background-color: #1890ff;
+  color: white;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+ 
+.about-us-card .ant-card-body {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+ 
+.about-us-card ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+ 
+.about-us-card li {
+  margin-bottom: 10px;
+} */
+
+
+
+/* AboutUs.css */
+ 
+/* Container for the Content */
+.about-us-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+ 
+/* Styling for the Collapse Panel */
+.about-us-collapse {
+  /* max-width: 800px; */
+  max-width: 1045px;
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8 ;
+  background-color: #f8f6f4;
+}
+.ant-collapse-content-box {
+  color: rgba(0, 0, 0, 0.88);
+  background-color: hsl(72, 57%, 86%);
+  border-top: 1px solid #d9d9d9; 
+}

@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .FN{
+  padding-right: 10% ;
+} */
+.nameid {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.lastid {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.emailid {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.company {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.country {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.state {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.city {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.DC {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.team {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
+
+.department {
+  width: 20%;
+  margin-top: 1%;
+  padding-left: 0.5%;
+  margin-left: 1%;
+}
